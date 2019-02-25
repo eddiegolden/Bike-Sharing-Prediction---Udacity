@@ -1,9 +1,7 @@
 # Bike-Sharing-Prediction---Udacity
 Predicting bike sharing based on data using a neural network - First project in Deep Learning course in Udacity 
 
-This is my first project in Udacity great course of Deep Learning. Done in Python using a Jupyter notebook and PyTorch package.
-
-#### In this project, you'll build your first neural network and use it to predict daily bike rental ridership. We've provided some of the code, but left the implementation of the neural network up to you (for the most part). After you've submitted this project, feel free to explore the data and the model more.
+#### In this project, you'll build your first neural network and use it to predict daily bike rental ridership. 
 
 ![Neural Network](assets/neural_network.png)
 
