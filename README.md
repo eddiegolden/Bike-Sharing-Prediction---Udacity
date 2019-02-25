@@ -5,7 +5,7 @@ Predicting bike sharing based on data using a neural network - First project in 
 
 ![Neural Network](assets/neural_network.png)
 
-### The Technical Details (all the code is in [Bike Sharing notebook](Bike_Sharing_notebook.ipynb) and [My Answers](my_answers.py)
+### The Technical Details (all the code is in [Bike Sharing notebook](Bike_Sharing_notebook.ipynb) and [My Answers](my_answers.py))
 * **Load the data from Bike-Sharing-Dataset folder**
 This dataset has the number of riders for each hour of each day from January 1 2011 to December 31 2012. The number of riders is split between casual and registered, summed up in the cnt column. You can see the first few rows of the data above.
 
